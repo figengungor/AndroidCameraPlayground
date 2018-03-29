@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidCameraPlayground</string>
+    <string name="camera_not_found_message">Your device doesn\'t have a camera app that can handle this request!</string>
+    <string name="file_provider_authority" translatable="false">com.figengungor.androidcameraplayground.provider</string>
+    <string name="file_deletion_error">Temporary file could not be deleted!</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="permission_denied">Permission denied</string>
+</resources>

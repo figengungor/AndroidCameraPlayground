@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!--The path component corresponds to the path that is returned by getExternalFilesDir()
+    when called with Environment.DIRECTORY_PICTURES.
+
+    See FileProvider for different path specifiers:
+    https://developer.android.com/reference/android/support/v4/content/FileProvider.html-->
+    <external-files-path
+        name="my_images"
+        path="Pictures/" />
+</paths>
